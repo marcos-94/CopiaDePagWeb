@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.edce3b84.css",
+    "main.js": "./static/js/main.72107796.js",
+    "static/media/whatsapp.png": "./static/media/whatsapp.99885ad707953e06973c.png",
+    "static/media/motivacao-mobile.png": "./static/media/motivacao-mobile.45a7e50cb8736afd5052.png",
+    "static/media/Logo.png": "./static/media/Logo.7c58a62c1900854685b1.png",
+    "static/media/projeto4.webp": "./static/media/projeto4.e31e2aedc7a01d2db368.webp",
+    "static/media/capa-mobile.png": "./static/media/capa-mobile.7d59354400a52b2302d8.png",
+    "static/media/medalha.png": "./static/media/medalha.98c5290e9e36c7e3f6fa.png",
+    "static/media/projeto10.webp": "./static/media/projeto10.5bc4ee4ffe018dbfc0f7.webp",
+    "static/media/code.png": "./static/media/code.be479cc3af9f1a4d3be6.png",
+    "static/media/projeto2.webp": "./static/media/projeto2.ecd722a1e349eae6c855.webp",
+    "static/media/instagram.png": "./static/media/instagram.797961f2c4df55db73a4.png",
+    "static/media/pessoas.png": "./static/media/pessoas.bc5d20a721287a0cfc00.png",
+    "static/media/dinheiro.png": "./static/media/dinheiro.4e45559014e81d5a30d1.png",
+    "static/media/twitter.png": "./static/media/twitter.9505af48cba7a439cc0b.png",
+    "static/media/youtube.png": "./static/media/youtube.553ae416a7e7f1e6343a.png",
+    "static/media/icone.png": "./static/media/icone.5f86e659ff8bb24f1d6c.png",
+    "index.html": "./index.html",
+    "main.edce3b84.css.map": "./static/css/main.edce3b84.css.map",
+    "main.72107796.js.map": "./static/js/main.72107796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edce3b84.css",
+    "static/js/main.72107796.js"
+  ]
+}
